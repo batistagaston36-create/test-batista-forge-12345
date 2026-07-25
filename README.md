@@ -1,2 +1,3 @@
-# test-batista-forge-12345
-Test repo
+# Test repo
+
+Created from Batista Forge.
